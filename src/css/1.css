@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body ul {
+  margin: 0;
+  padding: 0;
+}
+::placeholder {
+    color: aqua;
+}
+#box {
+    width: 580px;
+    height: 340px;
+    background-color: aqua;
+    background: url(../images/1.jpg);
+}
